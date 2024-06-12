@@ -6,5 +6,5 @@ Zu den Techdatein:
 1. Benutzt werden sollte das Template des Toolbox workshops
 2. ⁠Da manche Leute ältere Versionen des Headers haben, in welchem die Tabellen oder die Startfolie anders sind, sollten in den Zusammenfassungen oder Stichpunkten keine Tabellen oder Startfolien vorkommen, damit es nicht zu Problemen untereinander kommt.
 3. ⁠Wenn möglich, dann kein make verwenden, damit jeder mitarbeiten kann. \
-**Ganz wichtig: Arbeitet nicht (ohne Absprache mit denen) in Datein anderer! (Sachen von anderen könnt ihr natürlich kopieren und dann als eigenes Dokument mit eigenen Anmerkungen hochladen)**
+**Ganz wichtig: Arbeitet nicht (ohne Absprache mit denen) in Datein anderer!** (Sachen von anderen könnt ihr natürlich kopieren und dann als eigenes Dokument mit eigenen Anmerkungen hochladen)
 Have fun!
